@@ -1,0 +1,11 @@
+C:\Users\Matias Onores\Documents\Proyectos\CoinFlip App\bin\Debug\CoinFlip App.exe.config
+C:\Users\Matias Onores\Documents\Proyectos\CoinFlip App\bin\Debug\CoinFlip App.exe
+C:\Users\Matias Onores\Documents\Proyectos\CoinFlip App\bin\Debug\CoinFlip App.pdb
+C:\Users\Matias Onores\Documents\Proyectos\CoinFlip App\obj\Debug\CoinFlip App.csproj.AssemblyReference.cache
+C:\Users\Matias Onores\Documents\Proyectos\CoinFlip App\obj\Debug\CoinFlip App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matias Onores\Documents\Proyectos\CoinFlip App\obj\Debug\CoinFlip_App.Form1.resources
+C:\Users\Matias Onores\Documents\Proyectos\CoinFlip App\obj\Debug\CoinFlip_App.Properties.Resources.resources
+C:\Users\Matias Onores\Documents\Proyectos\CoinFlip App\obj\Debug\CoinFlip App.csproj.GenerateResource.cache
+C:\Users\Matias Onores\Documents\Proyectos\CoinFlip App\obj\Debug\CoinFlip App.csproj.CoreCompileInputs.cache
+C:\Users\Matias Onores\Documents\Proyectos\CoinFlip App\obj\Debug\CoinFlip App.exe
+C:\Users\Matias Onores\Documents\Proyectos\CoinFlip App\obj\Debug\CoinFlip App.pdb
